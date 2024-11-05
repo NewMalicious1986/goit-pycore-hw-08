@@ -1,7 +1,7 @@
 from colorama import Fore, Style
 import pickle
 
-from modules import AddressBook, Record
+from models import AddressBook, Record
 
 COMMANDS = """
     Available commands:

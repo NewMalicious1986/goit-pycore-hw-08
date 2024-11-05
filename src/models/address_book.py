@@ -1,6 +1,6 @@
 from collections import UserDict
 from datetime import datetime, timedelta
-from modules import Record
+from models import Record
 
 DATE_FORMAT = "%d.%m.%Y"
 DAYS_IN_WEEK = 7

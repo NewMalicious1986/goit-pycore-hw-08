@@ -1,4 +1,4 @@
-from modules import Birthday, Phone, Name
+from models import Birthday, Phone, Name
 
 
 class Record:
